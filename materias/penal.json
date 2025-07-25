@@ -1,0 +1,21 @@
+{
+  "id": "penal",
+  "nombre": "Derecho Penal",
+  "preguntas": [
+    {
+      "texto": "¿Qué es el delito?",
+      "opciones": ["Una conducta tipificada por la ley", "Un acto moralmente reprochable", "Un incumplimiento administrativo", "Un contrato ilegal"],
+      "respuesta": "Una conducta tipificada por la ley"
+    },
+    {
+      "texto": "¿Qué regula el Código Penal?",
+      "opciones": ["Las faltas leves", "Los delitos y sus penas", "Las normas administrativas", "Los contratos"],
+      "respuesta": "Los delitos y sus penas"
+    },
+    {
+      "texto": "¿Quién es el titular de la acción penal?",
+      "opciones": ["El acusado", "El juez", "El Ministerio Fiscal", "La Policía"],
+      "respuesta": "El Ministerio Fiscal"
+    }
+  ]
+}

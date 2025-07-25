@@ -1,0 +1,21 @@
+{
+  "id": "informatica",
+  "nombre": "Informática",
+  "preguntas": [
+    {
+      "texto": "¿Qué significa CPU?",
+      "opciones": ["Central Processing Unit", "Computer Personal Unit", "Central Program Utility", "Control Processing Unit"],
+      "respuesta": "Central Processing Unit"
+    },
+    {
+      "texto": "¿Qué tipo de memoria es volátil?",
+      "opciones": ["ROM", "RAM", "Disco duro", "SSD"],
+      "respuesta": "RAM"
+    },
+    {
+      "texto": "¿Qué sistema operativo es de código abierto?",
+      "opciones": ["Windows", "Linux", "MacOS", "iOS"],
+      "respuesta": "Linux"
+    }
+  ]
+}

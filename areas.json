@@ -1,0 +1,75 @@
+[
+  {
+    "area": "Oposiciones del Estado",
+    "oposiciones": [
+      {
+        "id": "administrativo-estado",
+        "nombre": "Administrativo Estado",
+        "icono": "briefcase",
+        "materias": ["Constitución Española", "Administrativo", "Informática"]
+      },
+      {
+        "id": "auxiliar-administrativo-estado",
+        "nombre": "Auxiliar Administrativo Estado",
+        "icono": "document-text",
+        "materias": ["Constitución Española", "Administrativo Básico", "Ofimática"]
+      },
+      {
+        "id": "agente-tributario",
+        "nombre": "Agente Tributario",
+        "icono": "cash",
+        "materias": ["Derecho Tributario", "Contabilidad", "Constitución Española"]
+      }
+    ]
+  },
+  {
+    "area": "Justicia",
+    "oposiciones": [
+      {
+        "id": "gestor-procesal",
+        "nombre": "Gestor Procesal",
+        "icono": "hammer",
+        "materias": ["Procesal", "Penal", "Constitucional"]
+      },
+      {
+        "id": "auxilio-judicial",
+        "nombre": "Auxilio Judicial",
+        "icono": "scale",
+        "materias": ["Procesal Básico", "Organización Judicial", "Constitución Española"]
+      }
+    ]
+  },
+  {
+    "area": "Educación",
+    "oposiciones": [
+      {
+        "id": "maestro-primaria",
+        "nombre": "Maestro Primaria",
+        "icono": "school",
+        "materias": ["Pedagogía", "Didáctica General", "Legislación Educativa"]
+      }
+    ]
+  },
+  {
+    "area": "Sanidad",
+    "oposiciones": [
+      {
+        "id": "enfermeria",
+        "nombre": "Enfermería",
+        "icono": "medkit",
+        "materias": ["Anatomía", "Farmacología", "Normativa Sanitaria"]
+      }
+    ]
+  },
+  {
+    "area": "Fuerzas y Cuerpos de Seguridad",
+    "oposiciones": [
+      {
+        "id": "policia-nacional",
+        "nombre": "Policía Nacional",
+        "icono": "shield",
+        "materias": ["Penal", "Seguridad Ciudadana", "Constitución Española"]
+      }
+    ]
+  }
+]

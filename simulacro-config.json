@@ -1,0 +1,50 @@
+{
+  "administrativo-estado": {
+    "numeroPreguntas": 30,
+    "tiempoMinutos": 60,
+    "penaliza": true,
+    "restaCadaError": 0.33
+  },
+  "auxiliar-administrativo-estado": {
+    "numeroPreguntas": 25,
+    "tiempoMinutos": 50,
+    "penaliza": true,
+    "restaCadaError": 0.25
+  },
+  "agente-tributario": {
+    "numeroPreguntas": 40,
+    "tiempoMinutos": 70,
+    "penaliza": true,
+    "restaCadaError": 0.5
+  },
+  "gestor-procesal": {
+    "numeroPreguntas": 50,
+    "tiempoMinutos": 90,
+    "penaliza": false,
+    "restaCadaError": 0
+  },
+  "auxilio-judicial": {
+    "numeroPreguntas": 30,
+    "tiempoMinutos": 60,
+    "penaliza": false,
+    "restaCadaError": 0
+  },
+  "maestro-primaria": {
+    "numeroPreguntas": 40,
+    "tiempoMinutos": 75,
+    "penaliza": true,
+    "restaCadaError": 0.25
+  },
+  "enfermeria": {
+    "numeroPreguntas": 35,
+    "tiempoMinutos": 60,
+    "penaliza": false,
+    "restaCadaError": 0
+  },
+  "policia-nacional": {
+    "numeroPreguntas": 50,
+    "tiempoMinutos": 80,
+    "penaliza": true,
+    "restaCadaError": 0.33
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "administrativo",
+  "nombre": "Derecho Administrativo",
+  "preguntas": [
+    {
+      "texto": "¿Qué es un acto administrativo?",
+      "opciones": ["Una norma general", "Una declaración de voluntad de la Administración", "Un contrato entre particulares", "Un recurso"],
+      "respuesta": "Una declaración de voluntad de la Administración"
+    },
+    {
+      "texto": "¿Cuál es el plazo general para resolver un procedimiento administrativo?",
+      "opciones": ["1 mes", "3 meses", "6 meses", "12 meses"],
+      "respuesta": "3 meses"
+    },
+    {
+      "texto": "¿Qué ley regula el procedimiento administrativo común?",
+      "opciones": ["Ley 30/1992", "Ley 39/2015", "Ley 40/2015", "Ley 29/1998"],
+      "respuesta": "Ley 39/2015"
+    }
+  ]
+}

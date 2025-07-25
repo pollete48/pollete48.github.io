@@ -1,0 +1,21 @@
+{
+  "id": "procesal",
+  "nombre": "Derecho Procesal",
+  "preguntas": [
+    {
+      "texto": "¿Qué regula el Derecho Procesal?",
+      "opciones": ["La organización de los tribunales", "El procedimiento judicial", "Ambas anteriores", "Ninguna"],
+      "respuesta": "Ambas anteriores"
+    },
+    {
+      "texto": "¿Cuál es el órgano competente en primera instancia en materia civil?",
+      "opciones": ["Juzgado de lo Penal", "Juzgado de Instrucción", "Juzgado de Primera Instancia", "Tribunal Supremo"],
+      "respuesta": "Juzgado de Primera Instancia"
+    },
+    {
+      "texto": "¿Cuál es el recurso más común contra una sentencia?",
+      "opciones": ["Recurso de alzada", "Recurso de apelación", "Recurso de queja", "Recurso de revisión"],
+      "respuesta": "Recurso de apelación"
+    }
+  ]
+}

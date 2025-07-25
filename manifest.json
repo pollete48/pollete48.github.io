@@ -1,1 +1,22 @@
-
+{
+  "version": "1.0.0",
+  "areas": "https://pollete48.github.io/oposiciones-datos/areas.json",
+  "simulacroConfig": "https://pollete48.github.io/oposiciones-datos/simulacro-config.json",
+  "materias": {
+    "constitucion-espanola": "https://pollete48.github.io/oposiciones-datos/materias/constitucion-espanola.json",
+    "penal": "https://pollete48.github.io/oposiciones-datos/materias/penal.json",
+    "administrativo": "https://pollete48.github.io/oposiciones-datos/materias/administrativo.json",
+    "administrativo-basico": "https://pollete48.github.io/oposiciones-datos/materias/administrativo-basico.json",
+    "anatomia": "https://pollete48.github.io/oposiciones-datos/materias/anatomia.json",
+    "contabilidad": "https://pollete48.github.io/oposiciones-datos/materias/contabilidad.json",
+    "derecho-tributario": "https://pollete48.github.io/oposiciones-datos/materias/derecho-tributario.json",
+    "didactica-general": "https://pollete48.github.io/oposiciones-datos/materias/didactica-general.json",
+    "farmacologia": "https://pollete48.github.io/oposiciones-datos/materias/farmacologia.json",
+    "informatica": "https://pollete48.github.io/oposiciones-datos/materias/informatica.json",
+    "legislacion-educativa": "https://pollete48.github.io/oposiciones-datos/materias/legislacion-educativa.json",
+    "normativa-sanitaria": "https://pollete48.github.io/oposiciones-datos/materias/normativa-sanitaria.json",
+    "pedagogia": "https://pollete48.github.io/oposiciones-datos/materias/pedagogia.json",
+    "procesal": "https://pollete48.github.io/oposiciones-datos/materias/procesal.json",
+    "seguridad-ciudadana": "https://pollete48.github.io/oposiciones-datos/materias/seguridad-ciudadana.json",
+  }
+}
