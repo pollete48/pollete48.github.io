@@ -1,21 +1,106 @@
 {
   "id": "penal",
-  "nombre": "Derecho Penal",
+  "nombre": "Penal",
   "preguntas": [
     {
-      "texto": "¿Qué es el delito?",
-      "opciones": ["Una conducta tipificada por la ley", "Un acto moralmente reprochable", "Un incumplimiento administrativo", "Un contrato ilegal"],
-      "respuesta": "Una conducta tipificada por la ley"
+      "texto": "Pregunta 1 de la materia penal?",
+      "opciones": [
+        "Opción A1",
+        "Opción B1",
+        "Opción C1",
+        "Opción D1"
+      ],
+      "respuesta": "Opción A1"
     },
     {
-      "texto": "¿Qué regula el Código Penal?",
-      "opciones": ["Las faltas leves", "Los delitos y sus penas", "Las normas administrativas", "Los contratos"],
-      "respuesta": "Los delitos y sus penas"
+      "texto": "Pregunta 2 de la materia penal?",
+      "opciones": [
+        "Opción A2",
+        "Opción B2",
+        "Opción C2",
+        "Opción D2"
+      ],
+      "respuesta": "Opción A2"
     },
     {
-      "texto": "¿Quién es el titular de la acción penal?",
-      "opciones": ["El acusado", "El juez", "El Ministerio Fiscal", "La Policía"],
-      "respuesta": "El Ministerio Fiscal"
+      "texto": "Pregunta 3 de la materia penal?",
+      "opciones": [
+        "Opción A3",
+        "Opción B3",
+        "Opción C3",
+        "Opción D3"
+      ],
+      "respuesta": "Opción A3"
+    },
+    {
+      "texto": "Pregunta 4 de la materia penal?",
+      "opciones": [
+        "Opción A4",
+        "Opción B4",
+        "Opción C4",
+        "Opción D4"
+      ],
+      "respuesta": "Opción A4"
+    },
+    {
+      "texto": "Pregunta 5 de la materia penal?",
+      "opciones": [
+        "Opción A5",
+        "Opción B5",
+        "Opción C5",
+        "Opción D5"
+      ],
+      "respuesta": "Opción A5"
+    },
+    {
+      "texto": "Pregunta 6 de la materia penal?",
+      "opciones": [
+        "Opción A6",
+        "Opción B6",
+        "Opción C6",
+        "Opción D6"
+      ],
+      "respuesta": "Opción A6"
+    },
+    {
+      "texto": "Pregunta 7 de la materia penal?",
+      "opciones": [
+        "Opción A7",
+        "Opción B7",
+        "Opción C7",
+        "Opción D7"
+      ],
+      "respuesta": "Opción A7"
+    },
+    {
+      "texto": "Pregunta 8 de la materia penal?",
+      "opciones": [
+        "Opción A8",
+        "Opción B8",
+        "Opción C8",
+        "Opción D8"
+      ],
+      "respuesta": "Opción A8"
+    },
+    {
+      "texto": "Pregunta 9 de la materia penal?",
+      "opciones": [
+        "Opción A9",
+        "Opción B9",
+        "Opción C9",
+        "Opción D9"
+      ],
+      "respuesta": "Opción A9"
+    },
+    {
+      "texto": "Pregunta 10 de la materia penal?",
+      "opciones": [
+        "Opción A10",
+        "Opción B10",
+        "Opción C10",
+        "Opción D10"
+      ],
+      "respuesta": "Opción A10"
     }
   ]
 }
